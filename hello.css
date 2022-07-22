@@ -1,4 +1,4 @@
-#top-barner{
+#top-banner{
 color : rgb(255,255,255,);
   font-size: 30px;
 
@@ -6,7 +6,7 @@ color : rgb(255,255,255,);
   overflow: auto;
   text-align: center;
 }
-#top-barner-img{
+#top-banner-img{
 float: right;
 }
 
@@ -38,7 +38,7 @@ cursor: pointer;
 padding: 4px 2px 4px 16px;
 display: box;
 }
-#top-barnner ,#menu{
+#top-banner ,#menu{
 boder-color: #616161;
 } 
 #toggle-menu-button:hover{ 
